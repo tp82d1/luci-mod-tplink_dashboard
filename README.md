@@ -59,7 +59,7 @@ This project was developed with the assistance of **ChatGPT**, which provided gu
 --- **Using OpenWrt image builder**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/luci-mod-tplink_dashboard.git
+   git clone https://github.com/tp82d1/luci-mod-tplink_dashboard.git
 2. Move it to `package` folder. 
 3. Enable `luci-mod-tplink_dashboard` in make menuconfig and save it
 >`LuCI > 2. Modules > luci-mod-tplink_dashboard`
