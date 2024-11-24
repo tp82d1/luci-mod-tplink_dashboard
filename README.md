@@ -75,7 +75,7 @@ wget --no-check-certificate -O /tmp/luci-mod-tplink_dashboard_1.0.0-r4_all.ipk h
 opkg install /tmp/luci-mod-tplink_dashboard_1.0.0-r4_all.ipk
 rm /tmp/luci-mod-tplink_dashboard_1.0.0-r4_all.ipk
 /etc/init.d/rpcd reload
-/etc/init.d/uhttp restart
+/etc/init.d/uhttpd restart
 ```
 
 # Directory Structure
